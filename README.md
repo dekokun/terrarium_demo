@@ -13,3 +13,7 @@ $ make install
 ```
 $ make deploy
 ```
+
+## deploy demo
+
+![result](https://github.com/dekokun/terrarium_demo/blob/media/output.gif)
